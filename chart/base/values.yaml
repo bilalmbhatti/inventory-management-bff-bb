@@ -45,6 +45,8 @@ vcsInfo:
 
 partOf: ""
 
-connectsTo: ""
+connectsTo: "inventory-management-svc-bb" 
 
 runtime: nodejs
+
+
